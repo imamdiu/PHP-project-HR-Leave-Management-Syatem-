@@ -1,0 +1,22 @@
+C:\xampp\htdocs\ecommerce\admin\admin-theme\bower_components
+
+/**********bower_components************/
+
+Bootstrap-----------------(1)----2.18MB
+Bootstrap others----------(5)----2.13MB
+Ckeditor------------------(1)----6.10MB
+Flot-fullcalender---------(4)----4.29MB
+
+Ionicons------------------(1)----4.79MB
+inputmask & ion.rangSlider(2)----1.59MB
+
+jquery--jquery-soarkline--(4)----2.02MB
+jquery-ui-----------------(1)----4.52MB
+javectormp----------------(1)----4.78MB
+
+moment.js-----------------(1)----3.02MB
+
+mocha-morris.js-----------(2)----1.53MB
+
+raphael-------------------(1)----1.11MB
+select2-------------------(1)----1.15MB
