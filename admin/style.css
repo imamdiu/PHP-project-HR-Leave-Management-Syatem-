@@ -1,0 +1,29 @@
+
+
+/*  border:0;
+ padding-left:30px;
+ padding-right:30px; */
+ 
+ .table_line_height{
+    line-height: 2.428571;
+ }
+
+ .td_add_tt{
+     text-color : green;
+     background-color: blueviolet;
+
+ }
+ .td_add{
+ width: 210px;
+ height: 100%;
+ overflow: visible;
+ text-color : green;
+ }
+ .td_add2{
+    width: 210px;
+    height: 100%;
+    overflow: visible;
+    text-align: justify;
+    padding-right:120px;
+    padding-top:110px;
+    }
